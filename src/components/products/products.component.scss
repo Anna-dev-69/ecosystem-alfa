@@ -1,0 +1,47 @@
+.Products {
+  // margin-top: 5rem;
+  width: 950px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 1rem;
+
+  &__ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    // max-height: 430px;
+  }
+
+  &__button-show {
+    margin-right: 3rem;
+    border: none;
+    background-color: transparent;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+
+  &__show-cards {
+    display: flex;
+
+    gap: 2rem;
+    font-size: 1.2rem;
+  }
+
+  &__create-new-card {
+    font-size: 1.1rem;
+    padding: 0.3rem;
+    cursor: pointer;
+    border: none;
+    background-color: rgb(184, 179, 179);
+    border-radius: 0.5rem;
+  }
+
+  &__checkbox {
+    width: 20px;
+    cursor: pointer;
+  }
+}

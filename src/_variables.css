@@ -1,0 +1,6 @@
+:root {
+  --filter-icon-like: brightness(0) saturate(100%) invert(100%) sepia(10%)
+    saturate(374%) hue-rotate(224deg) brightness(112%) contrast(85%);
+  --filter-like-red: brightness(0) saturate(100%) invert(23%) sepia(71%)
+    saturate(7467%) hue-rotate(356deg) brightness(95%) contrast(121%);
+}

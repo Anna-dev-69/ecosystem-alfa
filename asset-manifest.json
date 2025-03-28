@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecosystem-alfa/static/css/main.96429aaa.css",
+    "main.js": "/ecosystem-alfa/static/js/main.2291ff7f.js",
+    "static/media/trash-can.svg": "/ecosystem-alfa/static/media/trash-can.85ba7792a26715a7b4844146f0fe8516.svg",
+    "index.html": "/ecosystem-alfa/index.html",
+    "static/media/like.svg": "/ecosystem-alfa/static/media/like.75c497f9ee354744aed3cebe3f1c6162.svg",
+    "main.96429aaa.css.map": "/ecosystem-alfa/static/css/main.96429aaa.css.map",
+    "main.2291ff7f.js.map": "/ecosystem-alfa/static/js/main.2291ff7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96429aaa.css",
+    "static/js/main.2291ff7f.js"
+  ]
+}
